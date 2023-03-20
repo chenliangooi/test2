@@ -1,3 +1,5 @@
 [submodule "esp-idf-lib"]
 	path = esp-idf-lib
 	url = https://github.com/UncleRus/esp-idf-lib.git
+	branch = master
+	tag = v0.9.2
